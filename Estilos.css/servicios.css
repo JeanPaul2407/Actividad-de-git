@@ -20,19 +20,25 @@ header {
     list-style-type: circle;
     padding: 0;
     
+    
 }
 
 .Menu ul li {
     display: inline;
     margin-right: 20px;
  
+ 
 }
 
 .Menu ul li a {
     color: white;
-    text-decoration: none;    border: 1px;
-    border-radius: 1px;
-    color: chocolate;
+    text-decoration: none;    
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 10px;
+    border-color: #ff0000;
+    
+   
 }
     
 
